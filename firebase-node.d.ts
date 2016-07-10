@@ -306,6 +306,7 @@ declare namespace firebase.database {
   }
 }
 declare namespace firebase.database.ServerValue {
+  var TIMESTAMP: any;
 }
 declare namespace firebase.database {
   interface ThenableReference extends firebase.database.Reference, firebase.Thenable<void> {
