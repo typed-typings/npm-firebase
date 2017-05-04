@@ -1,5 +1,7 @@
 # Typed Firebase  [![Build Status](https://travis-ci.org/typed-typings/npm-firebase.svg?branch=master)](https://travis-ci.org/typed-typings/npm-firebase)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/types/npm-firebase.svg)](https://greenkeeper.io/)
+
 
 The type definition for [`firebase`]()
 
